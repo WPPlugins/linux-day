@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Linux Day\n"
+"POT-Creation-Date: 2016-06-30 15:14+0200\n"
+"PO-Revision-Date: 2016-06-30 15:15+0200\n"
+"Last-Translator: Mattia Migliorini <deshack@ubuntu.com>\n"
+"Language-Team: Mattia Migliorini <deshack@ubuntu.com>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../linux-day.php:39
+msgid "Linux Day Banner"
+msgstr ""
+
+#: ../linux-day.php:40
+msgid "Add the Linux Day banners to your sidebar"
+msgstr ""
+
+#: ../linux-day.php:63
+msgid "Linux Day 2016"
+msgstr ""
+
+#: ../linux-day.php:85
+msgid "Title:"
+msgstr ""
+
+#: ../linux-day.php:90
+msgid "Banner format:"
+msgstr ""
+
+#: ../linux-day.php:92
+msgid "Select format"
+msgstr ""
